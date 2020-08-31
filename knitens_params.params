@@ -1,0 +1,46 @@
+working_directory: /home/marcos/knitens
+
+script_directory: /home/marcos/knitens/scripts
+
+number_samples: 39
+
+accession_number_sample_1: ERR2820833
+accession_number_sample_2: ERR2820834
+accession_number_sample_3: ERR2820835
+accession_number_sample_4: ERR2820839
+accession_number_sample_5: ERR2820840
+accession_number_sample_6: ERR2820841
+accession_number_sample_7: ERR2820842
+accession_number_sample_8: ERR2820843
+accession_number_sample_9: ERR2820844
+accession_number_sample_10: ERR2820845
+accession_number_sample_11: ERR2820846
+accession_number_sample_12: ERR2820847
+accession_number_sample_13: ERR2820848
+accession_number_sample_14: ERR2820849
+accession_number_sample_15: ERR2820850
+accession_number_sample_16: ERR2820830
+accession_number_sample_17: ERR2820831
+accession_number_sample_18: ERR2820832
+accession_number_sample_19: ERR2820728
+accession_number_sample_20: ERR2820729
+accession_number_sample_21: ERR2820730
+accession_number_sample_22: ERR2820731
+accession_number_sample_23: ERR2820732
+accession_number_sample_24: ERR2820733
+accession_number_sample_25: ERR2820734
+accession_number_sample_26: ERR2820735
+accession_number_sample_27: ERR2820736
+accession_number_sample_28: ERR2820737
+accession_number_sample_29: ERR2820738
+accession_number_sample_30: ERR2820739
+accession_number_sample_31: ERR2820740
+accession_number_sample_32: ERR2820741
+accession_number_sample_33: ERR2820742
+accession_number_sample_34: ERR2820725
+accession_number_sample_35: ERR2820726
+accession_number_sample_36: ERR2820727
+accession_number_sample_37: ERR2820836
+accession_number_sample_38: ERR2820837
+accession_number_sample_39: ERR2820838
+
