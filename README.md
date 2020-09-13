@@ -6,4 +6,18 @@ En él se han reanalizado datos de RNA-seq de Ferrari, C., Proost, S., Janowski,
 
 ## Instrucciones:
 
-![alt text](https://github.com/marcos-bioinformatics/RNA_seq_K_nitens/blob/master/Workflow.png
+El flujo de trabajo es el siguiente:
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/marcos-bioinformatics/RNA_seq_K_nitens/blob/master/Workflow.png">
+</p>
+
+**Las muestras se encuentran procesadas**, pero los scripts en Bash para el procesamiento de las mismas se encuentran disponibles para su consulta.
+
+El análisis de los datos comprende tres scripts:
+
+- PCA_Rain_Clustering
+- Ontology Analysis
+- Network
+
+Basta con ejecutarlos desde la carpeta DATA donde se encuentran las muestras y otros ficheros de lectura necesarios. Para más información se puede consultar el trabajo completo en pdf o contactar con el autor.
